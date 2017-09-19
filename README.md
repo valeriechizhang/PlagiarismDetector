@@ -2,7 +2,7 @@
 Given a set of documents, the application can find pairs of documents that are more 80% similar.
 
 
-Algorithm used:
+###Algorithm used:
 
 *Shingling
 
@@ -11,12 +11,12 @@ Algorithm used:
 *Locality-sensitive hashing
 
 
-Program input:
+###Program input:
 
 A list of file directories.
 
 
-Sample execution command:
+###Sample execution command:
 
 javac PlagiarismDetector.java
 
